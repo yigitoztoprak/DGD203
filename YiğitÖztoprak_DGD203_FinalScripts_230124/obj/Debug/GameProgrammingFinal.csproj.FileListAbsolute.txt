@@ -1,0 +1,7 @@
+C:\Users\AbdullahYıldız\Desktop\Software Projects\C#\GameProgrammingFinal\obj\Debug\GameProgrammingFinal.csprojAssemblyReference.cache
+C:\Users\AbdullahYıldız\Desktop\Software Projects\C#\GameProgrammingFinal\obj\Debug\GameProgrammingFinal.csproj.CoreCompileInputs.cache
+C:\Users\AbdullahYıldız\Desktop\Software Projects\C#\GameProgrammingFinal\bin\Debug\GameProgrammingFinal.exe.config
+C:\Users\AbdullahYıldız\Desktop\Software Projects\C#\GameProgrammingFinal\bin\Debug\GameProgrammingFinal.exe
+C:\Users\AbdullahYıldız\Desktop\Software Projects\C#\GameProgrammingFinal\bin\Debug\GameProgrammingFinal.pdb
+C:\Users\AbdullahYıldız\Desktop\Software Projects\C#\GameProgrammingFinal\obj\Debug\GameProgrammingFinal.exe
+C:\Users\AbdullahYıldız\Desktop\Software Projects\C#\GameProgrammingFinal\obj\Debug\GameProgrammingFinal.pdb
